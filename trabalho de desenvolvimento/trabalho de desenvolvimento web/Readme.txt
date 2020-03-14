@@ -1,5 +1,6 @@
-desenvolvido pela equipe de ciencia da computação TURMA CIN05S1
+desenvolvido pela equipe de ciencia da computaï¿½ï¿½o TURMA CIN05S1
 FABIANO LIMA
 JOILTON CABRAL
-JOSÉ IRLAN 
+JOSï¿½ IRLAN 
 JONAS
+crie uma ssh key
