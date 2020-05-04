@@ -880,6 +880,8 @@ section {
   transition: 0.3s;
   position: relative;
   overflow: hidden;
+  right: 200 px;
+  
 }
 
 .portfolio .portfolio-wrap img {
